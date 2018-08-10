@@ -18,4 +18,4 @@ func main() {
 }
 ```
 
-Use can pass the id from 1 to 8 to the Beep() function
+You can pass the id from 1 to 8 to the Beep() function
